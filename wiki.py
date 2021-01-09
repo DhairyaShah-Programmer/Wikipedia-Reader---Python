@@ -1,3 +1,5 @@
+# Credit: https://gitHub.com/DhairyaShah-Programmer
+
 import pyttsx3 as tts
 import wikipedia as wiki
 
